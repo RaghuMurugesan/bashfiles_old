@@ -1,0 +1,19 @@
+colorscheme colorful256
+
+set number
+set showmatch
+set columns=80
+set shiftwidth=4
+set softtabstop=4
+set nocompatible
+set autoindent
+set smartindent
+set incsearch
+set tw=80
+set tabstop=4
+set textwidth=80
+set tw=80
+set wrap
+set expandtab
+retab
+set ls=2
